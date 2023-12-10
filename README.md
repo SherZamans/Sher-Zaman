@@ -110,7 +110,7 @@ Your project deserves a top-rated designer, and I'm at your service 24/7, respon
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 <br>
 
-<img align="right" alt="Coding" width="450" height="450" src="https://i.pinimg.com/originals/16/09/4c/16094cb99d80898457d02c0658b2b6c9.gif">
+<img align="right" alt="Coding" width="400" height="400" src="https://i.pinimg.com/originals/16/09/4c/16094cb99d80898457d02c0658b2b6c9.gif">
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sherzamans&show_icons=true&locale=en" alt="sherzamans" /></p>
